@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @stelios-c
 - 👀 I’m interested in Data, Space, Telecommunications. 
-- 🌱 I’m currently learning how to schedule Jupyter Notebooks on Google Cloud Vertex AI.
+- 🌱 I’m currently learning more pandas as it is becoming a universal language for data rivalling SQL.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
-- 📫 How to reach me: comment on github or message me on Linked In.
+- 📫 How to reach me: comment/issue on github or message me on Linked In.
 
 Portfolio:
 - My project for webscraping, cleaning and analysing GPS disruption data https://github.com/stelios-c/GPS_analysis
