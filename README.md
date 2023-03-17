@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stelios-c
 - 👀 I’m interested in Data, Space, Telecommunications. 
 - 🌱 I’m currently learning: 
-  - text recipes from "the Linux cookbook".
+  - text recipes from "the Linux cookbook" by Michael Stutz.
   -  github as a code review tool using branches and pull requests.
   -  hypothesis testing with scipy.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
