@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stelios-c
 - 👀 I’m interested in Data, Space, Telecommunications. 
-- 🌱 I’m currently revising statistics!
+- 🌱 I’m currently revising linear regression and curve fitting.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
