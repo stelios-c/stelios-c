@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stelios-c
 - 👀 I’m interested in Data, Space, Telecommunications, Transport. 
-- 🌱 I’m doing Matt Harrison's Python Statistics Essential course on Linked In learning.
+- 🌱 I’ve just finished Matt Harrison's Python Statistics Essential course on Linked In learning.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
