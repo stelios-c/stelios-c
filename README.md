@@ -5,7 +5,7 @@
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
 Portfolio:
-- My project for webscraping, cleaning and analysing GPS disruption data https://github.com/stelios-c/GPS_analysis
+- My [report on GPS disruptions 2018-2021](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
 - My recreation (no solutions) of Efron and Hastie's "Computer Age Statistical Inference". https://github.com/stelios-c/stat_inf_public 
 <!---
 stelios-c/stelios-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
