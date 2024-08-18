@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
+Skills:
+**Analysis:** SQL (BigQuery), Python (Pandas, SciPy, Jupyter). **Spatial:** GeoPandas, PostGIS, QGIS.
+**Programming:** Python, dbt, git, Bash shell, Pig (Hadoop). **Low Code:** Tableau, Power Automate.
+**Administration:** Google Cloud (Projects, Storage, Monitoring/Logging), Tableau Server, Linux.
+**Service and Project Management:** ITIL (Service Now), Jira, GitHub Issues, MS365 Planner.
+
 Portfolio:
 - [Report on GPS disruptions 2018-2021](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
 - [Analysis of GPS disturbances in Finland](https://github.com/stelios-c/GPS_analysis/blob/main/finland_disturbances.ipynb)
