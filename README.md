@@ -7,7 +7,7 @@
 Skills:  
 - **Analysis:** SQL (BigQuery), Python (Pandas, SciPy, Jupyter).
 - **Spatial:** GeoPandas, PostGIS, QGIS.
-- **Programming:** Python, dbt, git, Markdown, Bash shell, Pig (Hadoop).
+- **Programming:** Python, git, Markdown, dbt, Bash shell, Pig (Hadoop).
 - **Low Code:** Tableau, Power Automate.
 - **Diagrams:** Lucid Charts, Mermaid.
 - **Administration:** Google Cloud (Projects, Storage, Monitoring/Logging), Github repositories, Tableau Server, Linux.
