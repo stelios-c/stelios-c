@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stelios-c
-- 👀 I’m interested in Data, Space, Telecommunications, Transport. 
-- 🌱 I'm learning how to use Yellowbrick with Scikit Learn.
+- 👀 I’m interested in Telecommunications, Transport, Data, Space. 
+- 🌱 I'm learning about Management Information Systems from the textbook by Laudon & Laudon.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
@@ -10,7 +10,7 @@ Skills:
 - **Programming:** Python, git, Markdown, dbt, Bash shell, Pig (Hadoop).
 - **Low Code:** Tableau, Power Automate, Slack Workflows.
 - **Diagrams:** Lucid Charts, Mermaid.
-- **Administration:** Google Cloud (Projects, Storage, Monitoring/Logging), Github repositories, Tableau Server, Linux.
+- **Administration:** Google Cloud (IAM, Storage, Monitoring/Logging), Github repos, Tableau Server, Linux.
 - **Service and Project Management:** Jira, GitHub Issues, MS365 Planner, ITIL (Service Now).  
 
 Portfolio:
