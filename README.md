@@ -5,13 +5,11 @@
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
 Skills:  
-- **Analysis:** SQL (BigQuery), Python (Pandas, SciPy, Jupyter).
-- **Spatial:** GeoPandas, PostGIS, QGIS.
-- **Programming:** Python, pip, git, Markdown, dbt, Bash shell, Pig (Hadoop).
-- **Low Code:** Tableau, Power Automate, Slack Workflows.
+- **Analysis:** SQL (BigQuery), Python (Pandas, SciPy), Spatial (GeoPandas, PostGIS), Tableau.
+- **Programming:** Python, Github, pip, dbt, VSCode, Linux, Pig (Hadoop), Power Automate.
+- **Administration:** Google Cloud (Storage, Monitoring, Workbench Instances), Tableau Server.
+- **Service and Project Management:**  Jira, ITIL 4, Service Now.  
 - **Diagrams:** Lucid Charts, Mermaid.
-- **Administration:** Google Cloud (IAM, Storage, Monitoring/Logging), Github repos, Tableau Server, Linux.
-- **Service and Project Management:** Jira, GitHub Issues, MS365 Planner, ITIL (Service Now).  
 
 Portfolio:
 - [Report on GPS disruptions 2018-2021](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
