@@ -6,11 +6,14 @@
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
 ## Skills:  
-- **Analysis:** SQL (BigQuery), Python (Pandas, SciPy), Spatial (GeoPandas, PostGIS), Tableau.
-- **Programming:** Python, Github, pip, dbt, VSCode, Linux, Pig (Hadoop), Power Automate.
-- **Administration:** Google Cloud (Storage, Monitoring, Workbench Instances), Tableau Server.
-- **Service and Project Management:**  Jira, ITIL 4, Service Now.  
+- **Python:** standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
+- **SQL:** BigQuery, dbt. PostGIS.
+- **Visualisation:**  Tableau (Desktop, Server), QGIS, Excel.
+- **Cloud:** Object Storage, Data Warehouse, IAM, Monitoring, Virtual Machines, Notebooks, Hadoop.
+- **Service and Project Management:**  Github, Jira, ITIL 4, Service Now.  
 - **Diagrams:** Lucid Charts, Mermaid.
+- **Music:** Guitar, Recording, Live sound engineering, Audacity, Musescore, Lilypond.
+- **Languages:** Greek, English.
 
 ## Portfolio:
 - [Exploration of Eurostat data](https://github.com/stelios-c/eurostat_eda)
