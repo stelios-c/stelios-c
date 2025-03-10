@@ -17,9 +17,10 @@
 
 ## Portfolio:
 - [Exploration of Eurostat data](https://github.com/stelios-c/eurostat_eda)
-- [Analysis of GPS disturbances in Norway](https://github.com/stelios-c/GPS_analysis/blob/main/norway.ipynb)
-- [Analysis of GPS disturbances in Finland](https://github.com/stelios-c/GPS_analysis/blob/main/finland_disturbances.ipynb)
-- [Report on GPS disruptions 2018-2021](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
+- GPS disruptions
+  - [Norway](https://github.com/stelios-c/GPS_analysis/blob/main/norway.ipynb)
+  - [Finland](https://github.com/stelios-c/GPS_analysis/blob/main/finland_disturbances.ipynb)
+  - [Mediterranean](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
 - [Entry for Kaggle Playground competition to predict used car prices](https://github.com/stelios-c/used_cars_regression_kaggle)
 - [Directory diff using pandas](https://github.com/stelios-c/utilities/blob/main/generate_data.ipynb)
 - Recreation (no solutions) of Efron and Hastie's Computer Age Statistical Inference
