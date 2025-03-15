@@ -15,6 +15,16 @@
 - **Music:** Guitar, Recording, Live sound engineering, Audacity, Musescore, Lilypond.
 - **Languages:** Greek, English.
 
+## Professional experience:
+- ** Viasat / Inmarsat **
+	- 2025-     Senior Service Performance Engineer 
+	- 2021-2025 Senior Assurance Engineer
+	- 2019-2021 Senior Data Analyst, Service Assurance Systems
+- ** Ofcom ** 2018 Spectrum Technology Analyst
+- ** Inmarsat ** 2011-2017 Satellite Resource Engineer
+- ** PML / NEODAAS ** 2009-2011 Remote Sensing Analyst
+- ** Broadcom ** 2006-2009 Software Engineer, Mobile Multimedia
+
 ## Portfolio:
 - [Exploration of Eurostat data](https://github.com/stelios-c/eurostat_eda)
 - GPS disruptions
