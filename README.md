@@ -6,14 +6,15 @@
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
 ## Skills:  
-- **Python:** standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
-- **SQL:** BigQuery, dbt. PostGIS.
+- **Python:** Standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
+- **Data Management** SQL, dbt, PostGIS, Pig/Hadoop.
 - **Visualisation:**  Tableau (Desktop, Server), QGIS, Excel.
-- **Cloud:** Object Storage, Data Warehouse, IAM, Monitoring, Virtual Machines, Notebooks, Hadoop.
-- **Service and Project Management:**  Github, Jira, ITIL 4, Service Now.  
+- **Google Cloud:** BigQuery, Storage, IAM, Monitoring, Virtual Machines, Notebooks.
+- **Service and Project Management:**  Github, Jira, ITIL 4, Lean Six Sigma.  
 - **Diagrams:** Lucid Charts, Mermaid.
+- **Corporate automation:** MS Power Automate, Slack Workflows.
 - **Music:** Guitar, Recording, Live sound engineering, Audacity, Musescore, Lilypond.
-- **Languages:** Greek, English.
+- **Languages:** native Greek, professional fluent English, beginner French.
 
 ## Professional experience:
 - **Viasat/Inmarsat**
