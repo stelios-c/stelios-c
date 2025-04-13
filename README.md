@@ -1,7 +1,7 @@
 # Stelios Christodoulou
 - 👋 Hi, I’m @stelios-c
 - 👀 I’m interested in Telecommunications, Transport, Data, Space. 
-- 🌱 I'm learning about Feasibility Analysis from the Enterpreneurship textbook by Barringer & Ireland.
+- 🌱 I'm learning logistic regression.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
