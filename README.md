@@ -28,17 +28,9 @@
   - [kidneys dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/kidneys_no_solutions.ipynb)
   - [leukemia dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/all_aml.ipynb)
 - [Anscombe quartet data analysis](https://github.com/stelios-c/stat_inf_public/blob/main/anscombe/anscombe.ipynb)
-- 
-## Professional experience:
-- **Viasat/Inmarsat**
-	- 2025-     Senior Service Performance Engineer 
-	- 2021-2025 Senior Assurance Engineer
-	- 2019-2021 Senior Data Analyst, Service Assurance Systems
-- **Ofcom** 2018 Spectrum Technology Analyst
-- **Inmarsat** 2011-2017 Satellite Resource Engineer
-- **PML/NEODAAS** 2009-2011 Remote Sensing Analyst
-- **Broadcom** 2006-2009 Software Engineer, Mobile Multimedia
 
+## Professional experience:
+ Currently in **Viasat/Inmarsat**. Ex-Ofcom, ex-Inmarsat, ex-PML, ex-Broadcom.
 <!---
 stelios-c/stelios-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
