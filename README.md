@@ -1,7 +1,12 @@
 # Stelios Christodoulou
 - 👋 Hi, I’m @stelios-c
-- 👀 I’m interested in Telecommunications, Transport, Data, Space. 
-- 🌱 I'm revising ANOVA.
+- 👀 I’m a data analyst in Telecommunications
+  - working with spatial and timeseries data
+  - Mobility/Transport: Maritime, Aviation, rail and road.
+  - Weather/Climate: Arctic sea ice concentrations, rain fade, rain diversity switches.
+  - signal measurements: aggregated sensor network carrier monitoring. 
+  - interference detection, especially for GNSS. 
+- 🌱 I'm reading up on queuing theory.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
@@ -28,6 +33,9 @@
   - [kidneys dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/kidneys_no_solutions.ipynb)
   - [leukemia dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/all_aml.ipynb)
 - [Anscombe quartet data analysis](https://github.com/stelios-c/stat_inf_public/blob/main/anscombe/anscombe.ipynb)
+- Signal Processing Playground:
+  - [Frequency response of the moving average](https://github.com/stelios-c/image_proc/blob/main/scipy_ma.ipynb)
+  - [Schemdraw diagrams](https://github.com/stelios-c/image_proc/blob/main/schematic.ipynb)
 
 ## Professional experience:
  Currently in **Viasat/Inmarsat**. Ex-Ofcom, ex-Inmarsat, ex-PML, ex-Broadcom.
