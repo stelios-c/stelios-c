@@ -34,8 +34,8 @@
   - [leukemia dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/all_aml.ipynb)
 - [Anscombe quartet data analysis](https://github.com/stelios-c/stat_inf_public/blob/main/anscombe/anscombe.ipynb)
 - Signal Processing Playground:
-  - [Frequency response of the moving average](https://github.com/stelios-c/image_proc/blob/main/scipy_ma.ipynb)
-  - [Schemdraw diagrams](https://github.com/stelios-c/image_proc/blob/main/schematic.ipynb)
+  - [Frequency response of the moving average](https://github.com/stelios-c/sig_proc/blob/main/scipy_ma.ipynb)
+  - [Schemdraw diagrams](https://github.com/stelios-c/sig_proc/blob/main/schematic.ipynb)
 
 ## Professional experience:
  Currently in **Viasat/Inmarsat**. Ex-Ofcom, ex-Inmarsat, ex-PML, ex-Broadcom.
