@@ -24,8 +24,8 @@
 ## Portfolio:
 - [Exploration of Eurostat data](https://github.com/stelios-c/eurostat_eda)
 - GPS disruptions
-  - [Norway](https://github.com/stelios-c/GPS_analysis/blob/main/norway.ipynb)
-  - [Finland](https://github.com/stelios-c/GPS_analysis/blob/main/finland_disturbances.ipynb)
+  - [Norway](https://github.com/stelios-c/GPS_analysis/blob/main/scandinavia/norway.ipynb)
+  - [Finland](https://github.com/stelios-c/GPS_analysis/blob/main/scandinavia/finland_disturbances.ipynb)
   - [Mediterranean](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
 - [Entry for Kaggle Playground competition to predict used car prices](https://github.com/stelios-c/used_cars_regression_kaggle)
 - [Directory diff using pandas](https://github.com/stelios-c/utilities/blob/main/generate_data.ipynb)
