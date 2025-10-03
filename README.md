@@ -6,7 +6,7 @@
   - Weather/Climate: Arctic sea ice concentrations, rain fade, rain diversity switches.
   - signal measurements: aggregated sensor network carrier monitoring. 
   - interference detection, especially for GNSS. 
-- 🌱 I'm reading up on Quality of Service in Telecommunications networks.
+- 🌱 I'm going down GNU/Linux related rabbit holes.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
