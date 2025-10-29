@@ -1,12 +1,7 @@
 # Stelios Christodoulou
 - 👋 Hi, I’m @stelios-c
-- 👀 I’m a data analyst in Telecommunications
-  - working with spatial and timeseries data
-  - Mobility/Transport: Maritime, Aviation, rail and road.
-  - Weather/Climate: Arctic sea ice concentrations, rain fade, rain diversity switches.
-  - signal measurements: aggregated sensor network carrier monitoring. 
-  - interference detection, especially for GNSS. 
-- 🌱 I'm going down GNU/Linux related rabbit holes.
+- 👀 I’m a data analyst in Global Mobility / Satellite Telecommunications
+- 🌱 I'm refreshing my C knowledge.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
