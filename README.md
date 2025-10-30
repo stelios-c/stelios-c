@@ -5,17 +5,6 @@
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github or message me on Linked In.
 
-## Skills:  
-- **Python:** Standard library, (Geo)Pandas, Jupyter, SciPy, pip, sklearn.
-- **Data Management** SQL, dbt, PostGIS, Pig/Hadoop.
-- **Visualisation:**  Tableau (Desktop, Server), QGIS, Excel.
-- **Google Cloud:** BigQuery, Storage, IAM, Monitoring, Virtual Machines, Notebooks.
-- **Service and Project Management:**  Github, Jira, ITIL 4, Lean Six Sigma.  
-- **Diagrams:** Lucid Charts, Mermaid.
-- **Corporate automation:** MS Power Automate, Slack Workflows.
-- **Music:** Guitar, Recording, Live sound engineering, Audacity, Musescore, Lilypond.
-- **Languages:** native Greek, professional fluent English, beginner French.
-
 ## Portfolio:
 - [Exploration of Eurostat data](https://github.com/stelios-c/eurostat_eda)
 - GPS disruptions
