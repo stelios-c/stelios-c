@@ -22,8 +22,6 @@
   - [Frequency response of the moving average](https://github.com/stelios-c/sig_proc/blob/main/scipy_ma.ipynb)
   - [Schemdraw diagrams](https://github.com/stelios-c/sig_proc/blob/main/schematic.ipynb)
 
-## Professional experience:
- Currently in **Viasat/Inmarsat**. Ex-Ofcom, ex-Inmarsat, ex-PML, ex-Broadcom.
 <!---
 stelios-c/stelios-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
