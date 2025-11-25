@@ -1,6 +1,6 @@
 # Stelios Christodoulou
 - 👋 Hi, I’m @stelios-c. See my [personal website](https://stelios-c.github.io/) for more details 
-- 👀 I’m a data analyst in Global Mobility / Satellite Telecommunications
+- 👀 I’m an engineer and data analyst in Global Mobility / Satellite Telecommunications
 - 🌱 I'm refreshing my C knowledge.
 - 💞️ I’m looking to collaborate on analysing open data and improving open source tools.
 - 📫 How to reach me: comment/issue on github, message on Linked In.
