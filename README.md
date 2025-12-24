@@ -6,7 +6,7 @@
 - 📫 How to reach me: comment/issue on github, message on Linked In.
 
 ## Portfolio:
-- GPS disruptions
+- Analysis of GPS disruptions
   - [Norway](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/norway.ipynb)
   - [Finland](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/finland_disturbances.ipynb)
   - [Mediterranean](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
