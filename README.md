@@ -6,6 +6,8 @@
 - 📫 How to reach me: comment/issue on github, message on Linked In.
 
 ## Portfolio:
+
+- [Exploration of UK Net Zero Co-benefits dataset](https://github.com/stelios-c/datalab_viz_comp_2025)
 - Analysis of GPS disruptions
   - [Norway](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/norway.ipynb)
   - [Finland](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/finland_disturbances.ipynb)
@@ -14,7 +16,6 @@
   - [Time series analysis of Google trends](https://github.com/stelios-c/sig_proc/blob/main/pydata_london2025/timeseries.ipynb) 
   - [Frequency response of the moving average](https://github.com/stelios-c/sig_proc/blob/main/scipy_ma.ipynb)
   - [Schemdraw diagrams](https://github.com/stelios-c/sig_proc/blob/main/schematic.ipynb)
-- [Exploration of UK Net Zero Co-benefits dataset](https://github.com/stelios-c/datalab_viz_comp_2025)
 - [Exploration of Eurostat data](https://github.com/stelios-c/eurostat_eda)
 - [Entry for Kaggle Playground competition to predict used car prices](https://github.com/stelios-c/used_cars_regression_kaggle)
 - Recreation (no solutions) of Efron and Hastie's Computer Age Statistical Inference
