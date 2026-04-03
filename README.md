@@ -6,7 +6,7 @@
 - 📫 How to reach me: comment/issue on github, message on Linked In.
 
 ## Portfolio:
-
+- [Examples of blocked Wikipedia scraping](https://github.com/stelios-c/wikidata_experimental/blob/master/wiki_scrape_403.ipynb)
 - [Exploration of UK Net Zero Co-benefits dataset](https://github.com/stelios-c/datalab_viz_comp_2025)
 - Analysis of GPS disruptions
   - [Norway](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/norway.ipynb)
