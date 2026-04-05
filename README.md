@@ -22,7 +22,6 @@
   - [kidneys dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/kidneys_no_solutions.ipynb)
   - [leukemia dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/all_aml.ipynb)
 - [Anscombe quartet data analysis](https://github.com/stelios-c/stat_inf_public/blob/main/anscombe/anscombe.ipynb)
-- [Directory diff using pandas](https://github.com/stelios-c/utilities/blob/main/generate_data.ipynb)
 
 <!---
 stelios-c/stelios-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
