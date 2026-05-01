@@ -6,12 +6,10 @@
 - 📫 How to reach me: comment/issue on github, message on Linked In.
 
 ## Portfolio:
+- [Analysis of Amateur radio DX cluster data](https://github.com/stelios-c/amateur_radio/blob/main/dx_cluster.ipynb)
 - [Examples of blocked Wikipedia scraping](https://github.com/stelios-c/wikidata_experimental/blob/master/wiki_scrape_403.ipynb)
 - [Exploration of UK Net Zero Co-benefits dataset](https://github.com/stelios-c/datalab_viz_comp_2025)
-- Analysis of GPS disruptions
-  - [Norway](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/norway.ipynb)
-  - [Finland](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/finland_disturbances.ipynb)
-  - [Mediterranean](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
+- Analysis of GPS disruptions:[Norway](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/norway.ipynb), [Finland](https://github.com/stelios-c/GPS_analysis/blob/main/scandi_baltic/finland_disturbances.ipynb), [Mediterranean](https://github.com/stelios-c/GPS_analysis/blob/main/GPS_interference_analysis.md)
 - Signal Processing Playground:
   - [Time series analysis of Google trends](https://github.com/stelios-c/sig_proc/blob/main/pydata_london2025/timeseries.ipynb) 
   - [Frequency response of the moving average](https://github.com/stelios-c/sig_proc/blob/main/scipy_ma.ipynb)
