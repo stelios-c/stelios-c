@@ -6,6 +6,7 @@
 - 📫 How to reach me: comment/issue on github, message on Linked In.
 
 ## Portfolio:
+- [Analysis of Scottish election polls leading to May 2026](https://github.com/stelios-c/uk_votes/blob/main/scottish_may2026.ipynb)
 - [Analysis of Amateur radio DX cluster data](https://github.com/stelios-c/amateur_radio/blob/main/dx_cluster.ipynb)
 - [Examples of blocked Wikipedia scraping](https://github.com/stelios-c/wikidata_experimental/blob/master/wiki_scrape_403.ipynb)
 - [Exploration of UK Net Zero Co-benefits dataset](https://github.com/stelios-c/datalab_viz_comp_2025)
