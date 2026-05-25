@@ -17,9 +17,6 @@
   - [Schemdraw diagrams](https://github.com/stelios-c/sig_proc/blob/main/schematic.ipynb)
 - [Exploration of Eurostat data](https://github.com/stelios-c/eurostat_eda)
 - [Entry for Kaggle Playground competition to predict used car prices](https://github.com/stelios-c/used_cars_regression_kaggle)
-- Recreation (no solutions) of Efron and Hastie's Computer Age Statistical Inference
-  - [kidneys dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/kidneys_no_solutions.ipynb)
-  - [leukemia dataset analysis](https://github.com/stelios-c/stat_inf_public/blob/main/all_aml.ipynb)
 - [Working with linux /usr/share/misc tabular data in pandas](https://github.com/stelios-c/utilities/blob/main/airports_file.ipynb)
 - [Anscombe quartet data analysis](https://github.com/stelios-c/stat_inf_public/blob/main/anscombe/anscombe.ipynb)
 
